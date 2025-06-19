@@ -15,8 +15,14 @@ This project predicts water quality using a machine learning model built in a Ju
 
 ## 🚀 Running the Project
 
-1. Clone the repo
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+
+1. Clone the repo  
+2. Create a virtual environment:  
+   `python -m venv venv`  
+3. Activate it:  
+   `venv\Scripts\activate`  
+4. Install dependencies:  
+   `pip install -r requirements.txt`  
+5. Run the notebook:  
+   `jupyter notebook`
 
